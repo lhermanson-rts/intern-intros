@@ -2,6 +2,7 @@
 # intern-intros
 A space for interns to practice git
 
+Sam Phillips, Admin, Creighton University
 Sebastian Alturck-Carlos
 Financial
 Kansas State University
